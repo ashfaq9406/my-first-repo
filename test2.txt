@@ -4,3 +4,5 @@ This is a new file
 
 this file was updated
 because of checking purposes
+
+Try to use cat command in power shell
